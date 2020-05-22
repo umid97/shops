@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Config</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, aperiam? Modi magnam maiores id iure aperiam totam placeat deserunt similique nostrum, recusandae suscipit, enim ratione fugit consequatur dicta quibusdam ullam!</p>
 </body>
 </html>
